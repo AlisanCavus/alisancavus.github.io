@@ -49,10 +49,12 @@ a.becodelink:active {
 
 .fab {
 	transition: .3s;
+	
 }
 
 .fab:hover{
 	transform: scale(1.5);
+	
 }
 
 .icons-social i {
