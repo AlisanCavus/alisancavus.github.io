@@ -1,4 +1,4 @@
-/* Typography */
+
 
 html {
 	font-family: 'Roboto', sans-serif;
@@ -48,7 +48,7 @@ a.becodelink:active {
 }
 
 .fab {
-	transition: .3s;
+	transition: transform 500ms ease;
 	
 }
 

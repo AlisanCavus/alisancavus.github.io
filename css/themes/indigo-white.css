@@ -1,4 +1,4 @@
-/* Theme */
+
 
 main {
 	background: #2c8571;
@@ -27,6 +27,7 @@ main {
 
 .icons-social a {
 	color: #FAFAFA;
+	transition: color 500ms ease;
 }
 
 .icons-social a:hover {	
@@ -35,6 +36,7 @@ main {
 
 .icons-social a svg path{
 	fill: #FAFAFA;
+	transition: fill 500ms ease;
 }
 
 .icons-social a svg path:hover {	
