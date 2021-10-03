@@ -6,16 +6,21 @@ main {
 	animation: changebaby 10s infinite;
 }
 
-@keyframes changebaby{	
-	0%{background-color: #82b156;
+@keyframes changebaby {	
+	0%{
+		background-color: #82b156;
 		}
-	25%{background-color: #2e60cc;
+	25%{
+		background-color: #2e60cc;
 		}
-	50%{background-color: #973c53;
+	50%{
+		background-color: #973c53;
 		}
-	75%{background-color: #2e60cc;
+	75%{
+		background-color: #2e60cc;
 		}
-	100%{background-color: #82b156;
+	100%{
+		background-color: #82b156;
 		}
 	
 }
